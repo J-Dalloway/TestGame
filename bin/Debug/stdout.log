@@ -1,0 +1,490 @@
+dexterity: 1.89, charisma: 4, wisdom: 5, knowledge: 3, strength: 3, empathy: 6, lawfulness: 2, confidence: 1, loyalty: 8, independence: 5, greed: 9, cooperation: 9, creativity: 4, aggression: 5, curiosity: 4
+farmer barkeep servant  3
+
+dexterity: 1.09, charisma: 10, wisdom: 4, knowledge: 9, strength: 2, empathy: 9, lawfulness: 7, confidence: 10, loyalty: 8, independence: 8, greed: 9, cooperation: 2, creativity: 9, aggression: 6, curiosity: 9
+barkeep politician trader artist performer welfare scholar  7
+
+dexterity: 2, charisma: 8, wisdom: 2, knowledge: 9, strength: 1, empathy: 7, lawfulness: 2, confidence: 1, loyalty: 2, independence: 9, greed: 6, cooperation: 2, creativity: 5, aggression: 6, curiosity: 4
+barkeep scholar  2
+
+dexterity: 0.46, charisma: 6, wisdom: 3, knowledge: 7, strength: 4, empathy: 6, lawfulness: 8, confidence: 6, loyalty: 1, independence: 6, greed: 6, cooperation: 3, creativity: 10, aggression: 4, curiosity: 10
+farmer barkeep artist performer scholar  5
+
+dexterity: 1.16, charisma: 10, wisdom: 10, knowledge: 7, strength: 6, empathy: 10, lawfulness: 7, confidence: 8, loyalty: 4, independence: 6, greed: 3, cooperation: 3, creativity: 9, aggression: 8, curiosity: 6
+farmer miner lumberjack blacksmith builder laborer barkeep politician police doctor manager trader artist performer welfare scholar teacher  17
+
+dexterity: 0.99, charisma: 1, wisdom: 4, knowledge: 6, strength: 2, empathy: 2, lawfulness: 1, confidence: 7, loyalty: 5, independence: 10, greed: 9, cooperation: 1, creativity: 2, aggression: 10, curiosity: 8
+thief murderer  2
+
+dexterity: 1.71, charisma: 8, wisdom: 1, knowledge: 3, strength: 9, empathy: 8, lawfulness: 2, confidence: 3, loyalty: 3, independence: 8, greed: 8, cooperation: 9, creativity: 8, aggression: 6, curiosity: 10
+farmer miner lumberjack laborer barkeep security ConMan artist explorer vigilante  10
+
+dexterity: 1.51, charisma: 10, wisdom: 8, knowledge: 7, strength: 6, empathy: 5, lawfulness: 3, confidence: 8, loyalty: 10, independence: 3, greed: 4, cooperation: 3, creativity: 6, aggression: 1, curiosity: 5
+farmer miner lumberjack blacksmith builder laborer barkeep manager trader performer smuggler scholar teacher  13
+
+dexterity: 1.11, charisma: 10, wisdom: 3, knowledge: 7, strength: 8, empathy: 9, lawfulness: 8, confidence: 4, loyalty: 10, independence: 7, greed: 2, cooperation: 3, creativity: 1, aggression: 5, curiosity: 5
+farmer miner lumberjack blacksmith builder laborer barkeep security politician welfare scholar  11
+
+dexterity: 0.8, charisma: 4, wisdom: 2, knowledge: 6, strength: 1, empathy: 5, lawfulness: 9, confidence: 1, loyalty: 10, independence: 10, greed: 3, cooperation: 7, creativity: 4, aggression: 3, curiosity: 8
+barkeep  1
+
+dexterity: 1.33, charisma: 8, wisdom: 2, knowledge: 9, strength: 7, empathy: 8, lawfulness: 3, confidence: 7, loyalty: 5, independence: 6, greed: 1, cooperation: 9, creativity: 9, aggression: 2, curiosity: 1
+farmer miner lumberjack blacksmith builder laborer barkeep artist performer vigilante scholar  11
+
+dexterity: 1.88, charisma: 8, wisdom: 10, knowledge: 8, strength: 6, empathy: 9, lawfulness: 10, confidence: 9, loyalty: 1, independence: 3, greed: 3, cooperation: 10, creativity: 6, aggression: 6, curiosity: 8
+farmer miner lumberjack blacksmith builder laborer barkeep politician police doctor manager trader performer explorer welfare scholar teacher  17
+
+dexterity: 0.59, charisma: 7, wisdom: 8, knowledge: 5, strength: 5, empathy: 7, lawfulness: 5, confidence: 4, loyalty: 10, independence: 2, greed: 1, cooperation: 0, creativity: 6, aggression: 5, curiosity: 1
+farmer miner lumberjack builder barkeep trader wiseman  7
+
+dexterity: 0.55, charisma: 5, wisdom: 2, knowledge: 3, strength: 10, empathy: 7, lawfulness: 0, confidence: 1, loyalty: 4, independence: 6, greed: 1, cooperation: 6, creativity: 1, aggression: 7, curiosity: 7
+farmer miner lumberjack barkeep security  5
+
+dexterity: 0.76, charisma: 1, wisdom: 4, knowledge: 3, strength: 9, empathy: 1, lawfulness: 10, confidence: 9, loyalty: 8, independence: 1, greed: 7, cooperation: 8, creativity: 9, aggression: 4, curiosity: 7
+farmer miner lumberjack laborer security servant artist  7
+
+dexterity: 1.77, charisma: 5, wisdom: 7, knowledge: 2, strength: 5, empathy: 4, lawfulness: 4, confidence: 10, loyalty: 2, independence: 4, greed: 1, cooperation: 4, creativity: 4, aggression: 3, curiosity: 2
+miner lumberjack laborer barkeep  4
+
+dexterity: 1.53, charisma: 5, wisdom: 6, knowledge: 2, strength: 8, empathy: 2, lawfulness: 2, confidence: 10, loyalty: 4, independence: 7, greed: 7, cooperation: 7, creativity: 9, aggression: 3, curiosity: 9
+miner lumberjack laborer barkeep artist thief explorer  7
+
+dexterity: 0.52, charisma: 2, wisdom: 8, knowledge: 10, strength: 7, empathy: 5, lawfulness: 3, confidence: 6, loyalty: 8, independence: 3, greed: 7, cooperation: 4, creativity: 6, aggression: 2, curiosity: 3
+farmer miner lumberjack blacksmith builder servant scholar  7
+
+dexterity: 0.31, charisma: 3, wisdom: 8, knowledge: 6, strength: 3, empathy: 2, lawfulness: 2, confidence: 8, loyalty: 4, independence: 6, greed: 5, cooperation: 8, creativity: 6, aggression: 3, curiosity: 4
+farmer wiseman  2
+
+dexterity: 1.05, charisma: 6, wisdom: 9, knowledge: 1, strength: 1, empathy: 4, lawfulness: 0, confidence: 10, loyalty: 3, independence: 10, greed: 1, cooperation: 5, creativity: 5, aggression: 8, curiosity: 10
+barkeep performer wiseman  3
+
+dexterity: 1.27, charisma: 1, wisdom: 10, knowledge: 5, strength: 5, empathy: 5, lawfulness: 7, confidence: 8, loyalty: 0, independence: 1, greed: 7, cooperation: 4, creativity: 0, aggression: 2, curiosity: 7
+farmer miner lumberjack builder laborer explorer wiseman  7
+
+dexterity: 1.71, charisma: 1, wisdom: 3, knowledge: 4, strength: 1, empathy: 3, lawfulness: 1, confidence: 3, loyalty: 7, independence: 10, greed: 1, cooperation: 7, creativity: 9, aggression: 10, curiosity: 3
+artist  1
+
+dexterity: 0.51, charisma: 9, wisdom: 2, knowledge: 5, strength: 3, empathy: 3, lawfulness: 5, confidence: 10, loyalty: 2, independence: 9, greed: 10, cooperation: 10, creativity: 9, aggression: 7, curiosity: 3
+farmer barkeep artist performer  4
+
+dexterity: 0.93, charisma: 9, wisdom: 1, knowledge: 7, strength: 3, empathy: 3, lawfulness: 1, confidence: 8, loyalty: 7, independence: 4, greed: 2, cooperation: 7, creativity: 1, aggression: 9, curiosity: 8
+farmer barkeep servant scholar  4
+
+dexterity: 0.21, charisma: 0, wisdom: 10, knowledge: 10, strength: 7, empathy: 5, lawfulness: 0, confidence: 3, loyalty: 3, independence: 8, greed: 1, cooperation: 4, creativity: 4, aggression: 5, curiosity: 6
+farmer miner lumberjack blacksmith builder security scholar  7
+
+dexterity: 1.18, charisma: 10, wisdom: 7, knowledge: 9, strength: 2, empathy: 1, lawfulness: 10, confidence: 3, loyalty: 9, independence: 6, greed: 7, cooperation: 1, creativity: 2, aggression: 8, curiosity: 7
+barkeep politician manager trader scholar teacher  6
+
+dexterity: 1.96, charisma: 8, wisdom: 2, knowledge: 7, strength: 4, empathy: 2, lawfulness: 10, confidence: 4, loyalty: 7, independence: 4, greed: 10, cooperation: 7, creativity: 1, aggression: 7, curiosity: 5
+farmer laborer barkeep politician servant scholar  6
+
+dexterity: 0.88, charisma: 4, wisdom: 9, knowledge: 9, strength: 4, empathy: 7, lawfulness: 4, confidence: 6, loyalty: 6, independence: 2, greed: 6, cooperation: 3, creativity: 7, aggression: 5, curiosity: 1
+farmer laborer barkeep doctor manager artist scientist scholar wiseman teacher  10
+
+dexterity: 0.18, charisma: 7, wisdom: 6, knowledge: 5, strength: 9, empathy: 2, lawfulness: 9, confidence: 7, loyalty: 3, independence: 3, greed: 4, cooperation: 0, creativity: 7, aggression: 9, curiosity: 7
+farmer miner lumberjack blacksmith builder barkeep security police trader artist performer  11
+
+dexterity: 0.79, charisma: 7, wisdom: 4, knowledge: 5, strength: 4, empathy: 10, lawfulness: 4, confidence: 8, loyalty: 9, independence: 5, greed: 7, cooperation: 5, creativity: 6, aggression: 2, curiosity: 9
+farmer laborer barkeep servant trader performer  6
+
+dexterity: 0.52, charisma: 9, wisdom: 6, knowledge: 7, strength: 1, empathy: 6, lawfulness: 10, confidence: 3, loyalty: 1, independence: 6, greed: 5, cooperation: 8, creativity: 7, aggression: 4, curiosity: 9
+barkeep politician doctor trader artist scholar teacher  7
+
+dexterity: 1.16, charisma: 8, wisdom: 4, knowledge: 7, strength: 8, empathy: 5, lawfulness: 9, confidence: 4, loyalty: 10, independence: 8, greed: 7, cooperation: 2, creativity: 3, aggression: 5, curiosity: 1
+farmer miner lumberjack blacksmith builder laborer barkeep security politician police trader scholar  12
+
+dexterity: 0.26, charisma: 9, wisdom: 7, knowledge: 9, strength: 5, empathy: 4, lawfulness: 5, confidence: 9, loyalty: 3, independence: 2, greed: 8, cooperation: 3, creativity: 6, aggression: 1, curiosity: 8
+farmer miner lumberjack builder barkeep manager trader performer scholar teacher  10
+
+dexterity: 0.91, charisma: 10, wisdom: 1, knowledge: 1, strength: 2, empathy: 1, lawfulness: 0, confidence: 2, loyalty: 6, independence: 9, greed: 3, cooperation: 0, creativity: 7, aggression: 6, curiosity: 9
+barkeep artist  2
+
+dexterity: 1.81, charisma: 6, wisdom: 4, knowledge: 10, strength: 10, empathy: 2, lawfulness: 1, confidence: 8, loyalty: 6, independence: 8, greed: 2, cooperation: 6, creativity: 5, aggression: 9, curiosity: 10
+farmer miner lumberjack blacksmith builder laborer barkeep security servant soldier performer murderer explorer scholar  14
+
+dexterity: 1.37, charisma: 10, wisdom: 8, knowledge: 5, strength: 7, empathy: 3, lawfulness: 1, confidence: 7, loyalty: 7, independence: 3, greed: 5, cooperation: 2, creativity: 5, aggression: 8, curiosity: 4
+farmer miner lumberjack blacksmith builder laborer barkeep security soldier trader performer smuggler  12
+
+dexterity: 0.23, charisma: 4, wisdom: 1, knowledge: 8, strength: 5, empathy: 10, lawfulness: 6, confidence: 4, loyalty: 0, independence: 1, greed: 4, cooperation: 4, creativity: 0, aggression: 10, curiosity: 5
+farmer miner lumberjack builder barkeep welfare scholar  7
+
+dexterity: 0.76, charisma: 2, wisdom: 9, knowledge: 10, strength: 8, empathy: 8, lawfulness: 10, confidence: 10, loyalty: 3, independence: 4, greed: 3, cooperation: 5, creativity: 2, aggression: 5, curiosity: 10
+farmer miner lumberjack blacksmith builder laborer security doctor welfare scholar  10
+
+dexterity: 1.6, charisma: 7, wisdom: 5, knowledge: 8, strength: 1, empathy: 2, lawfulness: 1, confidence: 1, loyalty: 3, independence: 3, greed: 2, cooperation: 5, creativity: 8, aggression: 2, curiosity: 8
+barkeep trader artist explorer scientist scholar teacher  7
+
+dexterity: 0.83, charisma: 1, wisdom: 7, knowledge: 3, strength: 3, empathy: 5, lawfulness: 0, confidence: 2, loyalty: 1, independence: 6, greed: 9, cooperation: 10, creativity: 4, aggression: 3, curiosity: 8
+farmer  1
+
+dexterity: 0.6, charisma: 2, wisdom: 2, knowledge: 8, strength: 1, empathy: 6, lawfulness: 3, confidence: 7, loyalty: 8, independence: 9, greed: 6, cooperation: 1, creativity: 8, aggression: 9, curiosity: 6
+artist scholar  2
+
+dexterity: 1.94, charisma: 10, wisdom: 5, knowledge: 10, strength: 7, empathy: 2, lawfulness: 8, confidence: 7, loyalty: 2, independence: 4, greed: 9, cooperation: 9, creativity: 7, aggression: 6, curiosity: 5
+farmer miner lumberjack blacksmith builder laborer barkeep security politician police trader artist performer scientist scholar teacher  16
+
+dexterity: 0.6, charisma: 2, wisdom: 2, knowledge: 1, strength: 5, empathy: 9, lawfulness: 2, confidence: 2, loyalty: 6, independence: 1, greed: 8, cooperation: 0, creativity: 4, aggression: 5, curiosity: 7
+miner lumberjack laborer vigilante  4
+
+dexterity: 0.52, charisma: 5, wisdom: 6, knowledge: 1, strength: 8, empathy: 2, lawfulness: 5, confidence: 10, loyalty: 9, independence: 10, greed: 2, cooperation: 0, creativity: 7, aggression: 5, curiosity: 7
+miner lumberjack barkeep security artist  5
+
+dexterity: 1.72, charisma: 5, wisdom: 5, knowledge: 6, strength: 2, empathy: 4, lawfulness: 4, confidence: 8, loyalty: 9, independence: 2, greed: 10, cooperation: 4, creativity: 2, aggression: 5, curiosity: 3
+barkeep thief  2
+
+dexterity: 0.57, charisma: 7, wisdom: 5, knowledge: 10, strength: 1, empathy: 10, lawfulness: 10, confidence: 4, loyalty: 10, independence: 6, greed: 5, cooperation: 3, creativity: 3, aggression: 6, curiosity: 8
+barkeep doctor trader welfare scholar teacher  6
+
+dexterity: 0.49, charisma: 6, wisdom: 3, knowledge: 2, strength: 2, empathy: 4, lawfulness: 0, confidence: 4, loyalty: 0, independence: 5, greed: 8, cooperation: 8, creativity: 8, aggression: 4, curiosity: 7
+barkeep artist thief  3
+
+dexterity: 0.39, charisma: 6, wisdom: 4, knowledge: 6, strength: 7, empathy: 2, lawfulness: 10, confidence: 9, loyalty: 3, independence: 6, greed: 9, cooperation: 4, creativity: 7, aggression: 10, curiosity: 8
+farmer miner lumberjack blacksmith builder barkeep security police artist performer  10
+
+dexterity: 0.8, charisma: 3, wisdom: 5, knowledge: 1, strength: 5, empathy: 1, lawfulness: 9, confidence: 5, loyalty: 6, independence: 3, greed: 8, cooperation: 0, creativity: 6, aggression: 2, curiosity: 4
+miner lumberjack laborer  3
+
+dexterity: 1.05, charisma: 3, wisdom: 10, knowledge: 1, strength: 2, empathy: 2, lawfulness: 1, confidence: 6, loyalty: 5, independence: 7, greed: 9, cooperation: 8, creativity: 0, aggression: 5, curiosity: 8
+thief wiseman  2
+
+dexterity: 0.5, charisma: 1, wisdom: 2, knowledge: 4, strength: 10, empathy: 9, lawfulness: 4, confidence: 7, loyalty: 1, independence: 4, greed: 10, cooperation: 7, creativity: 0, aggression: 2, curiosity: 4
+farmer miner lumberjack  3
+
+dexterity: 0.87, charisma: 4, wisdom: 2, knowledge: 2, strength: 6, empathy: 3, lawfulness: 0, confidence: 2, loyalty: 7, independence: 9, greed: 3, cooperation: 3, creativity: 2, aggression: 4, curiosity: 4
+miner lumberjack laborer barkeep  4
+
+dexterity: 1.2, charisma: 10, wisdom: 4, knowledge: 2, strength: 4, empathy: 7, lawfulness: 4, confidence: 8, loyalty: 5, independence: 9, greed: 6, cooperation: 7, creativity: 4, aggression: 6, curiosity: 4
+laborer barkeep  2
+
+dexterity: 0.23, charisma: 6, wisdom: 7, knowledge: 8, strength: 9, empathy: 9, lawfulness: 0, confidence: 6, loyalty: 5, independence: 9, greed: 1, cooperation: 6, creativity: 3, aggression: 5, curiosity: 9
+farmer miner lumberjack blacksmith builder barkeep security doctor manager vigilante scholar teacher  12
+
+dexterity: 1.61, charisma: 6, wisdom: 2, knowledge: 5, strength: 7, empathy: 1, lawfulness: 10, confidence: 3, loyalty: 6, independence: 1, greed: 5, cooperation: 6, creativity: 9, aggression: 2, curiosity: 7
+farmer miner lumberjack blacksmith builder laborer barkeep servant artist explorer  10
+
+dexterity: 1.52, charisma: 8, wisdom: 1, knowledge: 5, strength: 5, empathy: 2, lawfulness: 1, confidence: 6, loyalty: 7, independence: 10, greed: 6, cooperation: 1, creativity: 9, aggression: 7, curiosity: 2
+farmer miner lumberjack builder laborer barkeep artist performer  8
+
+dexterity: 1.35, charisma: 1, wisdom: 10, knowledge: 5, strength: 3, empathy: 10, lawfulness: 0, confidence: 1, loyalty: 1, independence: 9, greed: 10, cooperation: 10, creativity: 10, aggression: 6, curiosity: 5
+farmer artist vigilante wiseman  4
+
+dexterity: 0.23, charisma: 3, wisdom: 1, knowledge: 9, strength: 4, empathy: 5, lawfulness: 9, confidence: 1, loyalty: 7, independence: 5, greed: 2, cooperation: 8, creativity: 5, aggression: 3, curiosity: 7
+farmer servant scholar  3
+
+dexterity: 1.9, charisma: 2, wisdom: 6, knowledge: 2, strength: 9, empathy: 4, lawfulness: 0, confidence: 3, loyalty: 6, independence: 8, greed: 10, cooperation: 10, creativity: 7, aggression: 8, curiosity: 6
+miner lumberjack laborer security servant soldier artist thief  8
+
+dexterity: 1.52, charisma: 8, wisdom: 9, knowledge: 5, strength: 9, empathy: 3, lawfulness: 9, confidence: 6, loyalty: 9, independence: 4, greed: 4, cooperation: 7, creativity: 2, aggression: 1, curiosity: 10
+farmer miner lumberjack blacksmith builder laborer barkeep politician servant trader explorer  11
+
+dexterity: 0.86, charisma: 2, wisdom: 5, knowledge: 7, strength: 8, empathy: 3, lawfulness: 10, confidence: 2, loyalty: 0, independence: 8, greed: 9, cooperation: 4, creativity: 2, aggression: 8, curiosity: 9
+farmer miner lumberjack blacksmith builder laborer security scholar  8
+
+dexterity: 0.64, charisma: 6, wisdom: 4, knowledge: 2, strength: 3, empathy: 9, lawfulness: 3, confidence: 8, loyalty: 10, independence: 10, greed: 6, cooperation: 10, creativity: 0, aggression: 3, curiosity: 10
+barkeep servant vigilante  3
+
+dexterity: 0.2, charisma: 8, wisdom: 1, knowledge: 6, strength: 3, empathy: 10, lawfulness: 9, confidence: 2, loyalty: 8, independence: 5, greed: 1, cooperation: 6, creativity: 9, aggression: 10, curiosity: 9
+farmer barkeep politician servant artist welfare  6
+
+dexterity: 0.39, charisma: 4, wisdom: 1, knowledge: 6, strength: 8, empathy: 4, lawfulness: 3, confidence: 1, loyalty: 6, independence: 2, greed: 8, cooperation: 6, creativity: 4, aggression: 2, curiosity: 3
+farmer miner lumberjack blacksmith builder barkeep servant thief  8
+
+dexterity: 1.9, charisma: 3, wisdom: 4, knowledge: 5, strength: 10, empathy: 3, lawfulness: 1, confidence: 9, loyalty: 7, independence: 4, greed: 1, cooperation: 6, creativity: 0, aggression: 9, curiosity: 5
+farmer miner lumberjack blacksmith builder laborer security servant soldier  9
+
+dexterity: 1.15, charisma: 3, wisdom: 1, knowledge: 7, strength: 10, empathy: 10, lawfulness: 6, confidence: 8, loyalty: 4, independence: 2, greed: 1, cooperation: 9, creativity: 3, aggression: 9, curiosity: 5
+farmer miner lumberjack blacksmith builder laborer security welfare scholar  9
+
+dexterity: 1.5, charisma: 10, wisdom: 5, knowledge: 8, strength: 9, empathy: 6, lawfulness: 9, confidence: 10, loyalty: 10, independence: 1, greed: 1, cooperation: 9, creativity: 1, aggression: 9, curiosity: 5
+farmer miner lumberjack blacksmith builder laborer barkeep security politician police doctor servant soldier trader scholar teacher  16
+
+dexterity: 1.75, charisma: 5, wisdom: 4, knowledge: 5, strength: 6, empathy: 3, lawfulness: 3, confidence: 10, loyalty: 8, independence: 8, greed: 1, cooperation: 1, creativity: 1, aggression: 4, curiosity: 1
+farmer miner lumberjack blacksmith builder laborer barkeep  7
+
+dexterity: 0.22, charisma: 7, wisdom: 6, knowledge: 5, strength: 1, empathy: 2, lawfulness: 10, confidence: 6, loyalty: 6, independence: 6, greed: 1, cooperation: 2, creativity: 4, aggression: 5, curiosity: 4
+barkeep trader  2
+
+dexterity: 1.83, charisma: 10, wisdom: 5, knowledge: 1, strength: 2, empathy: 5, lawfulness: 9, confidence: 2, loyalty: 10, independence: 8, greed: 10, cooperation: 8, creativity: 9, aggression: 1, curiosity: 3
+barkeep politician artist  3
+
+dexterity: 0.49, charisma: 1, wisdom: 5, knowledge: 4, strength: 5, empathy: 6, lawfulness: 10, confidence: 9, loyalty: 10, independence: 6, greed: 4, cooperation: 6, creativity: 9, aggression: 3, curiosity: 1
+farmer miner lumberjack servant artist  5
+
+dexterity: 1, charisma: 2, wisdom: 6, knowledge: 1, strength: 8, empathy: 2, lawfulness: 0, confidence: 2, loyalty: 6, independence: 9, greed: 7, cooperation: 0, creativity: 10, aggression: 3, curiosity: 3
+miner lumberjack laborer artist thief  5
+
+dexterity: 0.57, charisma: 2, wisdom: 5, knowledge: 9, strength: 3, empathy: 1, lawfulness: 7, confidence: 3, loyalty: 8, independence: 4, greed: 10, cooperation: 7, creativity: 7, aggression: 4, curiosity: 10
+farmer servant artist scientist scholar  5
+
+dexterity: 0.4, charisma: 10, wisdom: 4, knowledge: 3, strength: 5, empathy: 5, lawfulness: 2, confidence: 2, loyalty: 1, independence: 10, greed: 7, cooperation: 1, creativity: 3, aggression: 7, curiosity: 5
+farmer miner lumberjack barkeep ConMan  5
+
+dexterity: 0.58, charisma: 3, wisdom: 10, knowledge: 5, strength: 5, empathy: 2, lawfulness: 0, confidence: 7, loyalty: 2, independence: 9, greed: 2, cooperation: 2, creativity: 1, aggression: 8, curiosity: 3
+farmer miner lumberjack builder murderer wiseman  6
+
+dexterity: 1.29, charisma: 6, wisdom: 9, knowledge: 10, strength: 4, empathy: 10, lawfulness: 5, confidence: 8, loyalty: 7, independence: 7, greed: 2, cooperation: 3, creativity: 3, aggression: 5, curiosity: 2
+farmer laborer barkeep doctor manager welfare scholar wiseman teacher  9
+
+dexterity: 0.51, charisma: 2, wisdom: 6, knowledge: 3, strength: 4, empathy: 3, lawfulness: 3, confidence: 5, loyalty: 10, independence: 9, greed: 9, cooperation: 9, creativity: 10, aggression: 7, curiosity: 4
+farmer servant artist thief  4
+
+dexterity: 1.95, charisma: 7, wisdom: 10, knowledge: 1, strength: 4, empathy: 10, lawfulness: 2, confidence: 5, loyalty: 5, independence: 9, greed: 6, cooperation: 7, creativity: 1, aggression: 9, curiosity: 9
+laborer barkeep smuggler explorer vigilante wiseman  6
+
+dexterity: 0.47, charisma: 2, wisdom: 3, knowledge: 5, strength: 2, empathy: 1, lawfulness: 0, confidence: 6, loyalty: 10, independence: 9, greed: 8, cooperation: 5, creativity: 10, aggression: 4, curiosity: 9
+artist thief  2
+
+dexterity: 1.43, charisma: 0, wisdom: 9, knowledge: 6, strength: 9, empathy: 2, lawfulness: 3, confidence: 4, loyalty: 9, independence: 4, greed: 8, cooperation: 10, creativity: 10, aggression: 8, curiosity: 3
+farmer miner lumberjack blacksmith builder laborer security servant soldier artist thief  11
+
+dexterity: 1.27, charisma: 10, wisdom: 6, knowledge: 9, strength: 5, empathy: 3, lawfulness: 4, confidence: 5, loyalty: 7, independence: 1, greed: 10, cooperation: 2, creativity: 9, aggression: 5, curiosity: 4
+farmer miner lumberjack builder laborer barkeep ConMan trader artist performer thief scientist scholar teacher  14
+
+dexterity: 1.97, charisma: 1, wisdom: 5, knowledge: 3, strength: 6, empathy: 8, lawfulness: 8, confidence: 8, loyalty: 8, independence: 10, greed: 9, cooperation: 0, creativity: 2, aggression: 4, curiosity: 7
+farmer miner lumberjack laborer explorer welfare  6
+
+dexterity: 0.92, charisma: 0, wisdom: 6, knowledge: 6, strength: 3, empathy: 4, lawfulness: 2, confidence: 3, loyalty: 5, independence: 7, greed: 5, cooperation: 4, creativity: 6, aggression: 10, curiosity: 6
+farmer  1
+
+dexterity: 1.51, charisma: 1, wisdom: 4, knowledge: 8, strength: 2, empathy: 7, lawfulness: 5, confidence: 5, loyalty: 6, independence: 7, greed: 9, cooperation: 6, creativity: 6, aggression: 5, curiosity: 7
+explorer scholar  2
+
+dexterity: 0.97, charisma: 0, wisdom: 9, knowledge: 1, strength: 6, empathy: 3, lawfulness: 2, confidence: 2, loyalty: 2, independence: 5, greed: 5, cooperation: 9, creativity: 5, aggression: 5, curiosity: 9
+miner lumberjack laborer  3
+
+dexterity: 0.68, charisma: 1, wisdom: 9, knowledge: 9, strength: 9, empathy: 7, lawfulness: 0, confidence: 6, loyalty: 4, independence: 10, greed: 10, cooperation: 0, creativity: 7, aggression: 1, curiosity: 1
+farmer miner lumberjack blacksmith builder laborer doctor artist scientist scholar  10
+
+dexterity: 1.88, charisma: 2, wisdom: 6, knowledge: 1, strength: 3, empathy: 10, lawfulness: 4, confidence: 2, loyalty: 10, independence: 8, greed: 3, cooperation: 4, creativity: 7, aggression: 4, curiosity: 2
+servant artist  2
+
+dexterity: 0.69, charisma: 8, wisdom: 2, knowledge: 2, strength: 1, empathy: 6, lawfulness: 0, confidence: 4, loyalty: 1, independence: 3, greed: 8, cooperation: 4, creativity: 8, aggression: 6, curiosity: 8
+barkeep ConMan artist  3
+
+dexterity: 0.65, charisma: 3, wisdom: 9, knowledge: 10, strength: 3, empathy: 5, lawfulness: 10, confidence: 3, loyalty: 3, independence: 1, greed: 3, cooperation: 7, creativity: 9, aggression: 4, curiosity: 8
+farmer artist scientist scholar wiseman  5
+
+dexterity: 0.13, charisma: 4, wisdom: 2, knowledge: 10, strength: 3, empathy: 2, lawfulness: 4, confidence: 2, loyalty: 3, independence: 7, greed: 10, cooperation: 7, creativity: 7, aggression: 4, curiosity: 3
+farmer barkeep artist thief scholar  5
+
+dexterity: 0.9, charisma: 1, wisdom: 5, knowledge: 7, strength: 6, empathy: 1, lawfulness: 4, confidence: 1, loyalty: 0, independence: 5, greed: 4, cooperation: 4, creativity: 6, aggression: 8, curiosity: 4
+farmer miner lumberjack blacksmith builder laborer scholar  7
+
+dexterity: 0.35, charisma: 8, wisdom: 1, knowledge: 7, strength: 3, empathy: 9, lawfulness: 2, confidence: 4, loyalty: 3, independence: 7, greed: 4, cooperation: 9, creativity: 4, aggression: 5, curiosity: 4
+farmer barkeep vigilante scholar  4
+
+dexterity: 0.67, charisma: 10, wisdom: 9, knowledge: 1, strength: 7, empathy: 8, lawfulness: 6, confidence: 10, loyalty: 9, independence: 10, greed: 1, cooperation: 2, creativity: 3, aggression: 6, curiosity: 5
+miner lumberjack laborer barkeep security police welfare  7
+
+dexterity: 0.89, charisma: 8, wisdom: 9, knowledge: 7, strength: 4, empathy: 3, lawfulness: 0, confidence: 8, loyalty: 7, independence: 3, greed: 2, cooperation: 9, creativity: 10, aggression: 3, curiosity: 9
+farmer laborer barkeep servant manager trader artist performer smuggler mob boss scholar wiseman teacher  13
+
+dexterity: 1.22, charisma: 9, wisdom: 1, knowledge: 3, strength: 6, empathy: 7, lawfulness: 4, confidence: 3, loyalty: 3, independence: 1, greed: 4, cooperation: 8, creativity: 3, aggression: 10, curiosity: 8
+farmer miner lumberjack laborer barkeep  5
+
+dexterity: 1.02, charisma: 1, wisdom: 6, knowledge: 5, strength: 3, empathy: 7, lawfulness: 4, confidence: 4, loyalty: 9, independence: 10, greed: 1, cooperation: 8, creativity: 3, aggression: 8, curiosity: 4
+farmer servant  2
+
+dexterity: 0.87, charisma: 7, wisdom: 3, knowledge: 3, strength: 8, empathy: 10, lawfulness: 5, confidence: 10, loyalty: 4, independence: 9, greed: 10, cooperation: 1, creativity: 0, aggression: 5, curiosity: 8
+farmer miner lumberjack laborer barkeep security welfare  7
+
+dexterity: 1.73, charisma: 7, wisdom: 7, knowledge: 4, strength: 3, empathy: 0, lawfulness: 0, confidence: 5, loyalty: 2, independence: 6, greed: 8, cooperation: 6, creativity: 5, aggression: 10, curiosity: 4
+farmer barkeep performer thief murderer smuggler  6
+
+dexterity: 0.35, charisma: 8, wisdom: 5, knowledge: 7, strength: 4, empathy: 7, lawfulness: 7, confidence: 6, loyalty: 4, independence: 8, greed: 9, cooperation: 5, creativity: 10, aggression: 5, curiosity: 4
+farmer barkeep politician doctor trader artist performer scholar teacher  9
+
+dexterity: 1.46, charisma: 3, wisdom: 5, knowledge: 2, strength: 9, empathy: 7, lawfulness: 9, confidence: 10, loyalty: 1, independence: 9, greed: 5, cooperation: 10, creativity: 8, aggression: 10, curiosity: 7
+miner lumberjack laborer security artist explorer  6
+
+0 19 1 21 2 18 3 10 4 7 5 10 6 4 7 4 8 2 9 4 10 2 11 2 12 2 13 1 14 2 15 2 16 1 17 1 18 1 19 1 20 1 21 1 22 1 23 1 24 1 25 1 26 1 27 1 28 1 talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+talking
+Mining
+Mining
+Position found at 2194 3886
+Mining
+Mining
+build order placed
+current orders = 0
+Lumber
+Failed
+Position found at 2273 2046
+Position found at 2717 551
+attempting build
+Failed
+Failed
+Failed
+Failed
+Failed
+Position found at 2310 3308
+Building smith at 2310 3308
+Failed
+Position found at 1745 3303
+Mining
+Lumber
+Position found at 1358 2474
+Lumber
+build order placed
+current orders = 0
+Mining
+build order placed
+current orders = 1
+Mining
+Mining
+Lumber
+Mining
+Lumber
+Position found at 615 1106
+Lumber
+Mining
+Mining
+Lumber
+Mining
+attempting build
+Failed
+Failed
+Failed
+Failed
+Position found at 3595 548
+Building smith at 3595 548
+build order placed
+current orders = 1
+Mining
+talking
+attempting build
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Position found at 3358 3095
+Building smith at 3358 3095
+Lumber
+Position found at 3106 1102
+Mining
+Position found at 506 282
+Mining
+Lumber
+build order placed
+current orders = 1
+attempting build
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Position found at 903 3581
+Building smith at 903 3581
+Lumber
+Mining
+Lumber
+Mining
+attempting build
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Position found at 673 1315
+Building smith at 673 1315
+Mining
+Mining
+build order placed
+current orders = 0
+Lumber
+build order placed
+current orders = 1
+Lumber
+Mining
+Mining
+build order placed
+current orders = 2
+Lumber
+Mining
+build order placed
+current orders = 3
+Failed
+Position found at 3465 1251
+attempting build
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Failed
+Position found at 2876 3312
+Building smith at 2876 3312
+Mining
+Lumber
+Lumber
+Mining
+build order placed
+current orders = 3
+attempting build
+Failed
+Failed
+Failed
+Position found at 3149 1845
+Building smith at 3149 1845
+Lumber
+build order placed
+current orders = 3
+Lumber
+talking
+Lumber
+Mining
+Position found at 3001 103
+Position found at 986 2375
+Lumber

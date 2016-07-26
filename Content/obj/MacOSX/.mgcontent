@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>MacOSX</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Background.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Character.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Field.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/ManSheet.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Rock.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Tree.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/House.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Smithy.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/SmithyGround.png</File>
+  </SourceFiles>
+</SourceFileCollection>
