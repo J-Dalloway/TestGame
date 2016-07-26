@@ -10,5 +10,8 @@
     <File>/Users/dalloways/Projects/TestGame/TestGame/Content/ManSheet.png</File>
     <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Rock.png</File>
     <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Tree.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/House.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/Smithy.png</File>
+    <File>/Users/dalloways/Projects/TestGame/TestGame/Content/SmithyGround.png</File>
   </SourceFiles>
 </SourceFileCollection>
